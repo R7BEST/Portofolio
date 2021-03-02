@@ -1,0 +1,21 @@
+
+           .header
+           {
+               
+               background-color:"cadetblue";
+               display: flex;
+               justify-content: space-between;
+           }
+
+           .grid
+           {
+               display: flex;
+               flex-wrap: wrap;
+           }
+
+           .footer
+           {
+            display: flex;
+            
+           }
+      
